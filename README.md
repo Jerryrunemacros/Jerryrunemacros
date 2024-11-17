@@ -20,12 +20,6 @@ Additional Features
 🛡️ Anti-AFK Bypass: Keeps your player active without triggering AFK kicks.
 📊 Detailed Statistics: Log and track your macroing performance, including efficiency rates and resource gains.
 🕶️ Stealth Features: Behavior randomized to mimic natural human input, reducing detection risks.
-Installation
-Download
-
-Clone this repository or download it as a ZIP file.
-bash
-git clone https://github.com/Jerryrunemacros/Jerryrunemacros.git  
 
 Ensure you have Java 8+ installed.
 Compatible with most popular Minecraft clients and mod loaders, such as Forge and Fabric.
