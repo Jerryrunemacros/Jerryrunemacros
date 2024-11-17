@@ -1,6 +1,4 @@
 
-Here's a professional and detailed README.md template for the Jerryrunemacros project:
-
 Jerryrunemacros
 🚀 The Ultimate Macro Solution for Hypixel Skyblock
 
